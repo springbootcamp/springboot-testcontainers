@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: my-application
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+
+blog:
+  title: Blog
+  banner:
+    title: Warning
+    content: The blog will be down tomorrow.
+
+# end
